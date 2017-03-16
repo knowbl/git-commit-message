@@ -25,6 +25,7 @@ We agree on a short list of leading active verbs:
 * Optimise = Refactor of performance, e.g. speed up code.
 
 * Document = Refactor of documentation, e.g. help files.## Rejecting
+## Rejecting
 
 We do reject some kinds of git commit message formats. For example, we reject messages that start with a leading tag, or flag, or abbreviation, or link, or tracking number, such as any of these styles:
 
