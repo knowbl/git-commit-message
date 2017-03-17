@@ -24,7 +24,8 @@ We agree on a short list of leading active verbs:
 
 * Optimise = Refactor of performance, e.g. speed up code.
 
-* Document = Refactor of documentation, e.g. help files.## Rejecting
+* Document = Refactor of documentation, e.g. help files.
+
 
 ## Reasoning
 
