@@ -4,7 +4,7 @@ How to write a good git commit message that people can read and tools can parse.
 
 ## Canonical source
 
-The canonical source of Jekyll HTML5 Youtube is hosted on [https://git.knowbl.co/dev/git-commit-message/](git.knowbl.co).
+The canonical source of Jekyll HTML5 Youtube is [hosted on https://git.knowbl.co/dev/git-commit-message/](https://git.knowbl.co/dev/git-commit-message/).
 
 ## Commit verbs
 
