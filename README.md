@@ -1,5 +1,9 @@
 # Git commit message
 
+## Canonical source
+
+The canonical source of Jekyll HTML5 Youtube is hosted on [https://git.knowbl.co/dev/git-commit-message/](git.knowbl.co).
+
 Knowbl uses a git commit message convention that helps us read fast and also is parsable by toolchains.
 
 We agree on a short list of leading active verbs:
