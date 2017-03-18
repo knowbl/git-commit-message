@@ -22,6 +22,15 @@ We agree on a short list of leading active verbs:
 * Optimise = Refactor of performance, e.g. speed up code.
 * Document = Refactor of documentation, e.g. help files.
 
+## The seven rules
+
+* Separate subject from body with a blank line
+* Limit the subject line to 50 characters
+* Capitalise the subject line
+* Do not end the subject line with a period
+* Use the imperative mood in the subject line
+* Wrap the body at 72 characters
+* Use the body to explain what and why vs. how
 
 ## Reasoning
 
