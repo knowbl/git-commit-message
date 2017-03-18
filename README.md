@@ -6,6 +6,8 @@ How to write a good git commit message that people can read and tools can parse.
 
 The canonical source of Jekyll HTML5 Youtube is hosted on [https://git.knowbl.co/dev/git-commit-message/](git.knowbl.co).
 
+## Commit verbs
+
 Knowbl uses a git commit message convention that helps us read fast and also is parsable by toolchains.
 
 We agree on a short list of leading active verbs:
